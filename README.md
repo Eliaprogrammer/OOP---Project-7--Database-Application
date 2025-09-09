@@ -2,6 +2,8 @@
 
 Elia Schwartz, COP 3330 - 33777, June 1, 2025.
 
+Introduction to databases.
+
 Understand and get comfortable creating a database and accessing pieces of data.
 Students were tasked with creating a University database with Engineering students' inputs using the SQLite system.
 Executing queries to display, add, remove, and sort students in the database, in the program, and in the SQLite helper GUI, showing on the command line and/or console.
