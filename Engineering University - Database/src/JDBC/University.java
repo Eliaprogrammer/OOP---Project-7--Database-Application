@@ -1,4 +1,4 @@
-//Demonstration based on Java JDBC Tutorial by Simplilearn.
+//Demonstration based on Java JDBC Tutorial by Simplilearn (learning resource material).
 package JDBC;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -38,3 +38,4 @@ public class University {
         }
     }
 }
+
